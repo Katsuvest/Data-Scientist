@@ -12,7 +12,7 @@ These courses combined statistical and machine learning techniques with Python a
 - [20230625 Data Scientist with Python](https://github.com/Katsuvest/Data-Scientist/blob/master/20230625_Data_Scientist_with_Python-SOA.pdf)
 - [20230627 Data Scientist Professional with Python](https://github.com/Katsuvest/Data-Scientist/blob/master/20230627_Data_Scientist_Professional_with_Python-SOA.pdf)
 
-## Data Scientist Courses
+## Courses
 |                                                                        Course                                                                         | Completed |             Topic             |   Technology   |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------------------------- | :------------: |
 | [Analyzing Police Activity with pandas](https://github.com/Katsuvest/Data-Scientist/tree/master/20230128%20Data%20Scientist%20with%20R%20-%20SOA.pdf) | 24-Jun-23 |  Data Manipulation            |     Python     |
@@ -72,7 +72,7 @@ These courses combined statistical and machine learning techniques with Python a
 | [Working with Dates and Times in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                           | 18-Jan-23 |  Programming                  |  R Programming |
 | [Writing Functions in Python](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                                 | 22-Jun-23 |  Programming                  |     Python     |
 
-### Case studies and Projects
+### Case Studies and Projects
 |                                                                    Course                                                                     | Completed |     Topic     |   Technology   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-----------: | :------------: |
 | [Case Study: Exploratory Data Analysis in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                          | 19-Jan-23 |  Case Studies |  R Programming |
