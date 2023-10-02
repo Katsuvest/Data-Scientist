@@ -73,12 +73,12 @@ These courses combined statistical and machine learning techniques with Python a
 
 ### Case studies and Projects
 |                                                                    Course                                                                     | Completed |     Topic     |   Technology   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :------------ | :------------: |
+| :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-----------: | :------------: |
 | [Case Study: Exploratory Data Analysis in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                          | 19-Jan-23 |  Case Studies |  R Programming |
-| [Project - A Visual History of Nobel Prize Winners](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                   | 19-Jun-23 |  Projects     |     Python     |
-| [Project - Dr.Semmelweis and the Discovery of Handwashing](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)            | 24-Jun-23 |  Projects     |     Python     |
-| [Project - Investigating Netfix Movies and Guest Stars in The Office](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf) | 14-Jun-23 |  Projects     |     Python     |
-| [Project - Predicting Credit Card Approvals](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                          | 24-Jun-23 |  Projects     |     Python     |
-| [Project - The Android App Market on Google Play](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                     | 16-Jun-23 |  Projects     |     Python     |
-| [Project - The GitHub History of the Scala Language](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                  | 16-Jun-23 |  Projects     |     Python     |
-| [Project - What and Where are the Worlds Oldest Business](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)             | 14-Jun-23 |  Projects     |     Python     |
+| [Project - A Visual History of Nobel Prize Winners](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                   | 19-Jun-23 |    Projects   |     Python     |
+| [Project - Dr.Semmelweis and the Discovery of Handwashing](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)            | 24-Jun-23 |    Projects   |     Python     |
+| [Project - Investigating Netfix Movies and Guest Stars in The Office](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf) | 14-Jun-23 |    Projects   |     Python     |
+| [Project - Predicting Credit Card Approvals](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                          | 24-Jun-23 |    Projects   |     Python     |
+| [Project - The Android App Market on Google Play](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                     | 16-Jun-23 |    Projects   |     Python     |
+| [Project - The GitHub History of the Scala Language](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                  | 16-Jun-23 |    Projects   |     Python     |
+| [Project - What and Where are the Worlds Oldest Business](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)             | 14-Jun-23 |    Projects   |     Python     |
