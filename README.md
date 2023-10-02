@@ -8,7 +8,9 @@ These courses combined statistical and machine learning techniques with Python a
 |Data Scientist| Data Scientist Professional|
 |--------------|----------------------------|
 |[Data Scientist with Python] |[Data Scientist Professional with Python]|
-|[Data Scientist with R] |[Data Scientist Professional with R] |
+|[Data Scientist with R](master/20230128%20Data%20Scientist%20with%20R%20-%20SOA.pdf) |[Data Scientist Professional with R] |
+
+
 
 ## Data Scientist - Python
 
