@@ -13,7 +13,7 @@ These courses combined statistical and machine learning techniques with Python a
 ## Data Scientist - Python
 
 ### Certificates - Python
-- [Introduction to Python - 20230115](../DataCamp/blob/master/Documentation/Python/Certifications/20230115%20Introduction%20to%20Python%20certificate.pdf)
+- [Introduction to Python - 20230115](../Documentation/Python/Certifications/20230115%20Introduction%20to%20Python%20certificate.pdf)
 - [Data Communication Concepts - 20230117](link-to-certificate)
 - [Introduction to SQL - 20230405](link-to-certificate)
 - [Machine Learning for Business - 20230405](link-to-certificate)
