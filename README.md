@@ -11,7 +11,7 @@ These courses combined statistical and machine learning techniques with Python a
 |[Data Scientist with R](https://github.com/Katsuvest/Data-Scientist/tree/master/20230128%20Data%20Scientist%20with%20R%20-%20SOA.pdf) |[Data Scientist Professional with R] |
 
 |                   Course                   | Completed |           Topic            |   Technology   | DS  | DE | DA | BA  | DA_ |
-| :----------------------------------------- | :-------: | :------------------------- | :------------: | --: | :: | :- | :-- | :-- |
+|------------------------------------------- | --------- | -------------------------- | -------------- | --- | -- | -- | --- | --- |
 | Analyzing Police Activity with pandas      | 24-Jun-23 |  Data Manipulation         |     Python     |  59 | 47 | 33 | 100 | 78  |
 | Case Study: Exploratory Data Anlaysis in R | 19-Jan-23 |  Case Studies              |  R Programming |  90 | 57 | 41 | 99  | 100 |
 | Cleaning Data in Python                    | 16-May-23 |  Importing & Cleaning Data |     Python     | 100 | 95 | 40 | 26  | 85  |
