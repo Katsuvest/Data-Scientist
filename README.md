@@ -10,9 +10,6 @@ These courses combined statistical and machine learning techniques with Python a
 |[Data Scientist with Python] |[Data Scientist Professional with Python]|
 |[Data Scientist with R](https://github.com/Katsuvest/Data-Scientist/tree/master/20230128%20Data%20Scientist%20with%20R%20-%20SOA.pdf) |[Data Scientist Professional with R] |
 
-
-
-## Data Scientist - Python
 |                   Course                   | Completed |           Topic            |   Technology   | DS  | DE | DA | BA  | DA_ |
 | :----------------------------------------- | :-------: | :------------------------- | :------------: | --: | :: | :- | :-- | :-- |
 | Analyzing Police Activity with pandas      | 24-Jun-23 |  Data Manipulation         |     Python     |  59 | 47 | 33 | 100 | 78  |
@@ -20,6 +17,9 @@ These courses combined statistical and machine learning techniques with Python a
 | Cleaning Data in Python                    | 16-May-23 |  Importing & Cleaning Data |     Python     | 100 | 95 | 40 | 26  | 85  |
 | Cleaning Data in R                         | 17-Jan-23 |  Importing & Cleaning Data |  R Programming | 100 | 64 | 19 | 27  | 89  |
 | Data Communication Concepts                | 17-Jan-23 |  Reporting                 |     Theory     |  79 | 56 | 50 | 92  | 100 |
+
+## Data Scientist - Python
+
 ### Certificates - Python
 - [Introduction to Python - 20230115](../master/Certificates/20230115%20Introduction%20to%20Python%20certificate.pdf)
 - [Data Communication Concepts - 20230117](link-to-certificate)
