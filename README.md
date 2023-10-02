@@ -16,7 +16,6 @@ These courses combined statistical and machine learning techniques with Python a
 |                                                                        Course                                                                         | Completed |             Topic             |   Technology   |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------------------------- | :------------: |
 | [Analyzing Police Activity with pandas](https://github.com/Katsuvest/Data-Scientist/tree/master/20230128%20Data%20Scientist%20with%20R%20-%20SOA.pdf) | 24-Jun-23 |  Data Manipulation            |     Python     |
-| [Case Study: Exploratory Data Anlaysis in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                  | 19-Jan-23 |  Case Studies                 |  R Programming |
 | [Cleaning Data in Python](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                                     | 16-May-23 |  Importing & Cleaning Data    |     Python     |
 | [Cleaning Data in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                                          | 17-Jan-23 |  Importing & Cleaning Data    |  R Programming |
 | [Data Communication Concepts](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                                 | 17-Jan-23 |  Reporting                    |     Theory     |
@@ -77,6 +76,6 @@ These courses combined statistical and machine learning techniques with Python a
 
 
 ### Case studies
-|                        Course                         | Completed |             Topic             |   Technology   | D.S.| D.E.| D.Ar| B.A.| D.An|
-|------------------------------------------------------ |---------- |------------------------------ | -------------- | --- | --- | --- | --- | --- |
-| Case Study: Exploratory Data Anlaysis in R            | 19-Jan-23 |  Case Studies                 |  R Programming |  90 | 57  | 41  | 99  | 100 |
+|                                                                        Course                                                                         | Completed |             Topic             |   Technology   |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------------------------- | :------------: |
+| [Case Study: Exploratory Data Anlaysis in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                  | 19-Jan-23 |  Case Studies                 |  R Programming |
