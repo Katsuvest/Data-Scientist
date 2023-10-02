@@ -1,4 +1,4 @@
-# DataCamp Certificates - Data Scientist
+# DataCamp Certificatation - Data Scientist
 
 This repository contains qualifications and coursework related to data science from DataCamp.
 
