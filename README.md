@@ -5,10 +5,11 @@ This repository contains qualifications and coursework related to data science f
 These courses combined statistical and machine learning techniques with Python and R programming to analyze and interpret complex data.
 
 ## Statements of Obtainment
-|Data Scientist| Data Scientist Professional|
-|--------------|----------------------------|
-|[Data Scientist with Python] |[Data Scientist Professional with Python]|
-|[Data Scientist with R](https://github.com/Katsuvest/Data-Scientist/tree/master/20230128%20Data%20Scientist%20with%20R%20-%20SOA.pdf) |[Data Scientist Professional with R] |
+
+- [Data Scientist with Python] 
+- [Data Scientist Professional with Python]
+- [Data Scientist with R](https://github.com/Katsuvest/Data-Scientist/tree/master/20230128%20Data%20Scientist%20with%20R%20-%20SOA.pdf) 
+- [Data Scientist Professional with R]
 
 |                        Course                         | Completed |             Topic             |   Technology   | D.S.| D.E.| D.Ar| B.A.| D.An|
 |------------------------------------------------------ |---------- |------------------------------ | -------------- | --- | --- | --- | --- | --- |
