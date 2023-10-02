@@ -6,12 +6,11 @@ These courses combined statistical and machine learning techniques with Python a
 
 ## Statements of Achievment
 
-- '[Data Scientist with R (old)](https://github.com/Katsuvest/Data-Scientist/blob/master/2023012_Data_Scientist_with_R-SOA.pdf)
-- '[Data Scientist with R (new)](https://github.com/Katsuvest/Data-Scientist/blob/master/20230404_Data_Scientist_with_R_(new)-SOA.pdf)
-- '[Data Scientist Professional with R ](https://github.com/Katsuvest/Data-Scientist/blob/master/20230407_Data_Scientist_Professional_with_R-SOA.pdf)
-- '[Data Scientist with Python](https://github.com/Katsuvest/Data-Scientist/blob/master/20230625_Data_Scientist_with_Python-SOA.pdf)
-- '[Data Scientist Professional with Python](https://github.com/Katsuvest/Data-Scientist/blob/master/20230627_Data_Scientist_Professional_with_Python-SOA.pdf)
-
+- [20230128 Data Scientist with R](https://github.com/Katsuvest/Data-Scientist/blob/master/20230128_Data_Scientist_with_R-SOA.pdf)
+- [20230404 Data Scientist with R (new)](https://github.com/Katsuvest/Data-Scientist/blob/master/20230404_Data_Scientist_with_R_(new)-SOA.pdf)
+- [20230407 Data Scientist Professional with R](https://github.com/Katsuvest/Data-Scientist/blob/master/20230407_Data_Scientist_Professional_with_R-SOA.pdf)
+- [20230625 Data Scientist with Python](https://github.com/Katsuvest/Data-Scientist/blob/master/20230625_Data_Scientist_with_Python-SOA.pdf)
+- [20230627 Data Scientist Professional with Python](https://github.com/Katsuvest/Data-Scientist/blob/master/20230627_Data_Scientist_Professional_with_Python-SOA.pdf)
 
 ## Data Scientist Courses
 |                                                                        Course                                                                         | Completed |             Topic             |   Technology   |
