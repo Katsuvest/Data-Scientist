@@ -1,10 +1,10 @@
-# DataCamp Certificatation - Data Scientist
+# DataCamp Certification - Data Scientist
 
 This repository contains qualifications and coursework related to data science from DataCamp.
 
 These courses combined statistical and machine learning techniques with Python and R programming to analyze and interpret complex data.
 
-## Statements of Achievment
+## Statements of Achievement
 
 - [20230128 Data Scientist with R](https://github.com/Katsuvest/Data-Scientist/blob/master/20230128_Data_Scientist_with_R-SOA.pdf)
 - [20230404 Data Scientist with R (new)](https://github.com/Katsuvest/Data-Scientist/blob/master/20230404_Data_Scientist_with_R_(new)-SOA.pdf)
