@@ -6,7 +6,7 @@ These courses combined statistical and machine learning techniques with Python a
 
 ## Statements of Achievement
 
-- [20230128 Data Scientist with R](https://github.com/Katsuvest/Data-Scientist/blob/master/20230128_Data_Scientist_with_R-SOA.pdf) [![Custom Button](https://github.com/Katsuvest/Data-Scientist/blob/master/button.png)](https://example.com/link-to-somewhere)
+- [20230128 Data Scientist with R](https://github.com/Katsuvest/Data-Scientist/blob/master/20230128_Data_Scientist_with_R-SOA.pdf) 
 - [20230404 Data Scientist with R (new)](https://github.com/Katsuvest/Data-Scientist/blob/master/20230404_Data_Scientist_with_R_(new)-SOA.pdf)
 - [20230407 Data Scientist Professional with R](https://github.com/Katsuvest/Data-Scientist/blob/master/20230407_Data_Scientist_Professional_with_R-SOA.pdf)
 - [20230625 Data Scientist with Python](https://github.com/Katsuvest/Data-Scientist/blob/master/20230625_Data_Scientist_with_Python-SOA.pdf)
