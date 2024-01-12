@@ -1,4 +1,4 @@
-# Certifications - Data Scientist
+# Qualifications as a Data Scientist
 
 In my pursuit of the `Data Scientist` professional path, I have cultivated a comprehensive skill set spanning **[Python](https://github.com/Katsuvest/Python)** and **[R_Programming](https://github.com/Katsuvest/R_Programming)** programming languages. Beginning with foundational principles, I have refined my proficiency in `manipulating` and `analyzing data` with a focus on versatility. I excel in executing intricate queries, inputting, and modifying data within relational databases. My practical experience extends to leveraging Python for `data importation`, `cleaning`, and `code optimization`, coupled with the implementation of tests to `validate analytical outputs`.
 
@@ -10,19 +10,16 @@ Additionally, `Data Science` projects that exercise the skills learnt were also 
 
 In conclusion, adeptly navigating the `Data Scientist` career path positions me to propel my professional journey forward. I am well-prepared to tackle complex `data analysis` tasks, applying my acquired knowledge and skills to extract meaningful insights from intricate datasets.
 
-## Statements of Accomplishment
+## Data Science Career Tracks:
+
+* [Data Scientist Professional with Python](https://github.com/Katsuvest/Data-Scientist/tree/master/Data_Scientist_Professional_with_Python.pdf) - Completed on 27-06-2023
+* [Data Scientist Professional with R](https://github.com/Katsuvest/Data-Scientist/tree/master/Data_Scientist_Professional_with_R.pdf) - Completed on 07-04-2023 
+* [Data Scientist with Python](https://github.com/Katsuvest/Data-Scientist/tree/master/Data_Scientist_with_Python.pdf) - Completed on 25-06-2023    
+* [Data Scientist with R](https://github.com/Katsuvest/Data-Scientist/tree/master/Data_Scientist_with_R_(new).pdf) - Completed on 04-04-2023  
+* [Quantitative Analyst with R](https://github.com/Katsuvest/Data-Scientist/tree/master/Quantitative_Analyst_with_R.pdf) - Completed on 17-03-2023      
  
-|                                                                 Career Tracks                                                                  | Completed  |
-| :--------------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
-| [Data Scientist Professional with Python](https://github.com/Katsuvest/Data-Scientist/tree/master/Data_Scientist_Professional_with_Python.pdf) | 27-06-2023 |
-| [Data Scientist Professional with R](https://github.com/Katsuvest/Data-Scientist/tree/master/Data_Scientist_Professional_with_R.pdf)           | 07-04-2023 |
-| [Data Scientist with Python](https://github.com/Katsuvest/Data-Scientist/tree/master/Data_Scientist_with_Python.pdf)                           | 25-06-2023 |
-| [Data Scientist with R (new)](https://github.com/Katsuvest/Data-Scientist/tree/master/Data_Scientist_with_R_(new).pdf)                         | 04-04-2023 |
-| [Data Scientist with R (old)](https://github.com/Katsuvest/Data-Scientist/tree/master/Data_Scientist_with_R.pdf)                               | 28-01-2023 |
-| [Quantitative Analyst with R](https://github.com/Katsuvest/Data-Scientist/tree/master/Quantitative_Analyst_with_R.pdf)                         | 17-03-2023 |
 
-
-## Courses
+## Completed Courses:
 
 |                                                                                     Course                                                                                     |  Completed   |                                              Topic                                               |                          Technology                          |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------------------: |
