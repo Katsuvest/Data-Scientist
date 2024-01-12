@@ -6,7 +6,7 @@ The completion of diverse courses has endowed me with indispensable tools for da
 
 The zenith of my learning journey includes hands-on experience in joining and manipulating data using **[SQL](https://github.com/Katsuvest/SQL)**, **[Python](https://github.com/Katsuvest/Python)**, and **[R_Programming](https://github.com/Katsuvest/R_Programming)**. Moreover, I've gained valuable insights into `data visualization` techniques through tools like ggplot2 and Seaborn. These acquired skills empower me to interpret `data visualizations`, craft functions, and adeptly employ version control for seamless collaboration.
 
-Additionally, `Data Science` projects that exercise the skills learnt were also part of the overall study plan.
+Additionally, `Data Science projects` that exercise the skills learnt were also part of the overall study plan.
 
 In conclusion, adeptly navigating the `Data Scientist` career path positions me to propel my professional journey forward. I am well-prepared to tackle complex `data analysis` tasks, applying my acquired knowledge and skills to extract meaningful insights from intricate datasets.
 
