@@ -1,10 +1,16 @@
 # Certifications - Data Scientist
 
-This repository contains qualifications and coursework related to data science from DataCamp.
+In my pursuit of the `Data Scientist` professional path, I have cultivated a comprehensive skill set spanning **[Python](https://github.com/Katsuvest/Python)** and **[R_Programming](https://github.com/Katsuvest/R_Programming)** programming languages. Beginning with foundational principles, I have refined my proficiency in manipulating and analyzing data with a focus on versatility. I excel in executing intricate queries, inputting, and modifying data within relational databases. My practical experience extends to leveraging Python for data importation, cleaning, and code optimization, coupled with the implementation of tests to validate analytical outputs.
 
-These courses combined statistical and machine learning techniques with Python and R programming to analyze and interpret complex data.
+The completion of diverse courses has endowed me with indispensable tools for data manipulation and analysis, encompassing **[SQL](https://github.com/Katsuvest/SQL)**, **[Python](https://github.com/Katsuvest/Python)**, and **[R_Programming](https://github.com/Katsuvest/R_Programming)**. I've explored a range of topics, including exploratory data analysis, hypothesis testing, and statistical analysis. These courses not only fortified my foundational skills but also equipped me with the expertise necessary to thrive as a Data Scientist.
 
-## Statements of Achievement
+The zenith of my learning journey includes hands-on experience in joining and manipulating data using **[SQL](https://github.com/Katsuvest/SQL)**, **[Python](https://github.com/Katsuvest/Python)**, and **[R_Programming](https://github.com/Katsuvest/R_Programming)**. Moreover, I've gained valuable insights into data visualization techniques through tools like ggplot2 and Seaborn. These acquired skills empower me to interpret data visualizations, craft functions, and adeptly employ version control for seamless collaboration.
+
+Additionally, Data Science projects that exercise the skills learnt were also part of the overall study plan.
+
+In conclusion, adeptly navigating the Data Scientist career path positions me to propel my professional journey forward. I am well-prepared to tackle complex data analysis tasks, applying my acquired knowledge and skills to extract meaningful insights from intricate datasets.
+
+## Statements of Accomplishment
  
 |                                                                 Career Tracks                                                                  | Completed  |
 | :--------------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
